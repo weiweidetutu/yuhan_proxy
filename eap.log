@@ -1,0 +1,981 @@
+Timestamp                       Thread     Type        Activity             PID    TTL  
+2023-03-01 10:40:15.344322+0800 0x25b349   Default     0x0                  7109   0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-01 10:40:15.634429+0800 0x264a64   Default     0x0                  8660   0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-01 10:40:15.637339+0800 0x264a64   Default     0x0                  8660   0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-01 10:40:15.766240+0800 0x264a39   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 10:40:15.872735+0800 0x264a39   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 10:40:15.875549+0800 0x264a39   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 10:40:15.886543+0800 0x264a39   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 10:40:15.902462+0800 0x264a39   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 10:40:15.906718+0800 0x264a39   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 10:40:16.138851+0800 0x264a64   Default     0x0                  8660   0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 10:40:16.203997+0800 0x264a3d   Default     0x2a0533             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 10:40:16.210689+0800 0x264a3d   Default     0x2a0533             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 12:23:55.125905+0800 0x270fa4   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 12:23:55.284791+0800 0x270fa4   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:04:22.146769+0800 0x271450   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:04:22.161686+0800 0x271450   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:15:54.599809+0800 0x271761   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:15:54.615704+0800 0x271761   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:20:58.272134+0800 0x271ef4   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:20:58.278180+0800 0x271ef4   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:31:47.668669+0800 0x2721eb   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:31:47.694475+0800 0x2721eb   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:32:47.212661+0800 0x272989   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:32:47.237028+0800 0x272989   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:32:48.328111+0800 0x272989   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 13:32:48.365181+0800 0x272989   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 15:55:18.352229+0800 0x264a64   Default     0x0                  8660   0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-01 15:55:18.642140+0800 0x28f437   Default     0x0                  14529  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-01 15:55:18.644229+0800 0x28f437   Default     0x0                  14529  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-01 15:55:18.832135+0800 0x28f423   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 15:55:18.849153+0800 0x28f423   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 15:55:18.852940+0800 0x28f423   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 15:55:18.867328+0800 0x28f423   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 15:55:18.868364+0800 0x28f423   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 15:55:18.873545+0800 0x28f423   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 15:55:19.436074+0800 0x28f437   Default     0x0                  14529  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 15:55:19.562669+0800 0x28f24b   Default     0x2a0539             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 15:55:19.564912+0800 0x28f24b   Default     0x2a0539             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:01:17.323881+0800 0x29729b   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:01:17.424849+0800 0x29729b   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:04:32.665056+0800 0x28f437   Default     0x0                  14529  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-01 17:04:32.917729+0800 0x29abce   Default     0x0                  15655  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-01 17:04:32.921535+0800 0x29abce   Default     0x0                  15655  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-01 17:04:33.051334+0800 0x29abbb   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:04:33.061878+0800 0x29abbb   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:04:33.067413+0800 0x29abbb   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:04:33.083910+0800 0x29abbb   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:04:33.085803+0800 0x29abbb   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:04:33.091423+0800 0x29abbb   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:04:33.610898+0800 0x29abce   Default     0x0                  15655  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 17:04:33.827022+0800 0x29abe9   Default     0x2a053e             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:04:33.829838+0800 0x29abe9   Default     0x2a053e             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:49:04.305282+0800 0x29d47d   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:49:04.335067+0800 0x29d47d   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:49:05.492132+0800 0x29d47d   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 17:49:05.673294+0800 0x29d47d   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 18:48:30.586705+0800 0x2a353b   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 18:48:30.735023+0800 0x2a353b   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 18:48:32.251065+0800 0x2a353b   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 18:48:32.458788+0800 0x2a353b   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 18:56:52.642493+0800 0x29abce   Default     0x0                  15655  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 19:15:30.886639+0800 0x29abce   Default     0x0                  15655  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-01 19:15:31.120896+0800 0x2a8538   Default     0x0                  17146  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-01 19:15:31.123897+0800 0x2a8538   Default     0x0                  17146  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-01 19:15:31.282036+0800 0x2a852c   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:15:31.290969+0800 0x2a852c   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:15:31.300440+0800 0x2a852c   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:15:31.308767+0800 0x2a852c   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:15:31.309945+0800 0x2a852c   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:15:31.313041+0800 0x2a852c   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:15:31.704460+0800 0x2a8538   Default     0x0                  17146  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 19:15:31.894645+0800 0x2a852d   Default     0x2de9c1             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:15:31.912493+0800 0x2a852d   Default     0x2de9c1             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:43:45.433837+0800 0x2a8538   Default     0x0                  17146  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-01 19:43:45.694426+0800 0x2ad367   Default     0x0                  17564  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-01 19:43:45.696201+0800 0x2ad367   Default     0x0                  17564  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-01 19:43:45.836635+0800 0x2acfef   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:43:45.862855+0800 0x2acfef   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:43:45.868387+0800 0x2acfef   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:43:45.885836+0800 0x2acfef   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:43:45.887487+0800 0x2acfef   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:43:45.892954+0800 0x2acfef   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:43:46.264295+0800 0x2ad367   Default     0x0                  17564  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 19:43:46.466399+0800 0x2ad358   Default     0x2de9c4             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:43:46.468710+0800 0x2ad358   Default     0x2de9c4             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:56:57.318663+0800 0x2ad367   Default     0x0                  17564  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-01 19:56:57.572792+0800 0x2afb87   Default     0x0                  17878  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-01 19:56:57.574266+0800 0x2afb87   Default     0x0                  17878  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-01 19:56:57.689071+0800 0x2afb78   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:56:57.703968+0800 0x2afb78   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:56:57.706160+0800 0x2afb78   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:56:57.715704+0800 0x2afb78   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:56:57.717444+0800 0x2afb78   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:56:57.723055+0800 0x2afb78   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:56:58.020021+0800 0x2afb87   Default     0x0                  17878  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 19:56:58.106769+0800 0x2afb95   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 19:56:58.126426+0800 0x2afb95   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:17:45.566772+0800 0x2afb87   Default     0x0                  17878  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-01 20:17:45.815328+0800 0x2b31be   Default     0x0                  18243  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-01 20:17:45.832072+0800 0x2b31be   Default     0x0                  18243  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-01 20:17:45.949788+0800 0x2b31aa   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:17:45.964923+0800 0x2b31aa   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:17:45.966541+0800 0x2b31aa   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:17:45.976455+0800 0x2b31aa   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:17:45.977578+0800 0x2b31aa   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:17:45.979212+0800 0x2b31aa   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:17:46.077849+0800 0x2b31be   Default     0x0                  18243  0    eapolclient: (EAP8021X) [com.apple.eapol:Client] SecTrustEvaluateWithError failed, Error Domain=NSOSStatusErrorDomain Code=-67843 "“Example Certificate Authority”证书不受信任" UserInfo={NSLocalizedDescription=“Example Certificate Authority”证书不受信任, NSUnderlyingError=0x7fad30a171b0 {Error Domain=NSOSStatusErrorDomain Code=-67843 "证书1“Example Certificate Authority”有错误：根不受信任;" UserInfo={NSLocalizedDescription=证书1“Example Certificate Authority”有错误：根不受信任;}}}
+2023-03-01 20:17:46.077863+0800 0x2b31be   Default     0x0                  18243  0    eapolclient: (EAP8021X) [com.apple.eapol:Client] server certificate not trusted status 3 0
+2023-03-01 20:17:47.906659+0800 0x2b31be   Default     0x0                  18243  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 20:17:47.995891+0800 0x2b3043   Default     0x2de9ca             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:17:48.000347+0800 0x2b3043   Default     0x2de9ca             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:18:59.422092+0800 0x2b31be   Default     0x0                  18243  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-01 20:18:59.650829+0800 0x2b3752   Default     0x0                  18333  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-01 20:18:59.652966+0800 0x2b3752   Default     0x0                  18333  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-01 20:18:59.872674+0800 0x2b3743   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:18:59.882086+0800 0x2b3743   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:18:59.883921+0800 0x2b3743   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:18:59.889405+0800 0x2b3743   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:18:59.891129+0800 0x2b3743   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:18:59.901748+0800 0x2b3743   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:19:00.240730+0800 0x2b3752   Default     0x0                  18333  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 20:19:00.314789+0800 0x2b3743   Default     0x2de9cd             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:19:00.322686+0800 0x2b3743   Default     0x2de9cd             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:21:04.719313+0800 0x2b3752   Default     0x0                  18333  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-01 20:21:04.948428+0800 0x2b3ff2   Default     0x0                  18434  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-01 20:21:04.950471+0800 0x2b3ff2   Default     0x0                  18434  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-01 20:21:05.168098+0800 0x2b3fe6   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:21:05.178329+0800 0x2b3fe6   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:21:05.179450+0800 0x2b3fe6   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:21:05.182215+0800 0x2b3fe6   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:21:05.191635+0800 0x2b4001   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:21:05.194072+0800 0x2b4001   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:21:05.508953+0800 0x2b3ff2   Default     0x0                  18434  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 20:21:05.689574+0800 0x2b4001   Default     0x2e77e0             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:21:05.729336+0800 0x2b4001   Default     0x2e77e0             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:40:05.216140+0800 0x2b3ff2   Default     0x0                  18434  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-01 20:40:05.447602+0800 0x2b7658   Default     0x0                  18842  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-01 20:40:05.449505+0800 0x2b7658   Default     0x0                  18842  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-01 20:40:05.609682+0800 0x2b6b85   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:40:05.638627+0800 0x2b6b85   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:40:05.641140+0800 0x2b6b85   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:40:05.644067+0800 0x2b6b85   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:40:05.656457+0800 0x2b6b85   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:40:05.660419+0800 0x2b6b85   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:40:05.975373+0800 0x2b7658   Default     0x0                  18842  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 20:40:06.182950+0800 0x2b7664   Default     0x2e77e3             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:40:06.210699+0800 0x2b7664   Default     0x2e77e3             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 20:40:30.711997+0800 0x2b7658   Default     0x0                  18842  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-01 21:37:53.515954+0800 0x2b9c85   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 21:37:53.565660+0800 0x2b9c85   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 22:14:02.953361+0800 0x2bb3fe   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-01 22:14:03.523342+0800 0x2bb3fe   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 00:14:56.548237+0800 0x2bb9c2   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 00:14:56.560463+0800 0x2bb9c2   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 02:15:50.489672+0800 0x2bbfce   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 02:15:50.524881+0800 0x2bbfce   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 04:16:43.501820+0800 0x2bc48f   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 04:16:43.507970+0800 0x2bc48f   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 06:17:37.442893+0800 0x2bcc83   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 06:17:37.482024+0800 0x2bcc83   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 08:18:29.847280+0800 0x2bd100   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 08:18:30.424739+0800 0x2bd100   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:15:02.415737+0800 0x2bd37b   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:15:02.420983+0800 0x2bd37b   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:30:48.941657+0800 0x2bf936   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:30:49.122249+0800 0x2bf936   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:38:00.288558+0800 0x2b7658   Default     0x0                  18842  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-02 09:38:00.553385+0800 0x2c1fb3   Default     0x0                  20071  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-02 09:38:00.556532+0800 0x2c1fb3   Default     0x0                  20071  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-02 09:38:00.771324+0800 0x2c1d74   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:38:00.801449+0800 0x2c1d74   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:38:00.810050+0800 0x2c1d74   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:38:00.823406+0800 0x2c1d74   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:38:00.825600+0800 0x2c1d74   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:38:00.830016+0800 0x2c1d74   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:38:01.122524+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:c2:e3
+2023-03-02 09:38:01.122567+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 09:38:01.148463+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 22: EAP Success (3) From 50:98:b8:64:c2:e3
+2023-03-02 09:38:01.148486+0800 0x2c1fb3   Default     0x0                  20071  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-02 09:38:01.148509+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] State=Authenticated Status=OK (0)
+2023-03-02 09:38:01.159166+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] 4-way handshake complete
+2023-03-02 09:38:01.159167+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] force renew
+2023-03-02 09:38:01.201457+0800 0x2c1f9f   Default     0x2e77e7             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:38:01.216743+0800 0x2c1f9f   Default     0x2e77e7             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:51:30.900877+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 09:51:30.901278+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] link inactive
+2023-03-02 09:51:31.110092+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 09:51:31.914993+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] State=Inactive Status=OK (0)
+2023-03-02 09:51:34.875827+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 09:51:36.073224+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 09:51:40.279659+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 09:51:41.404077+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 09:51:44.768913+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 09:51:49.886645+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 09:51:53.281704+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 09:51:57.359863+0800 0x2c1fb3   Default     0x0                  20071  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-02 09:51:57.361187+0800 0x2c1fb3   Info        0x0                  20071  0    eapolclient: [com.apple.eapol:Client] PMK cache cleared
+2023-03-02 09:51:57.588575+0800 0x2c59b5   Default     0x0                  20697  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-02 09:51:57.588972+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 09:51:57.589808+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] update_configuration
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptEAPTypes</key>
+	<array>
+		<integer>25</integer>
+	</array>
+	<key>OuterIdentity</key>
+	<string>term_29424db4-5125-4e20-ad87-9b7be403a76c</string>
+	<key>ProfileID</key>
+	<string>64D6F872-F162-4F20-A063-0F1330705A9F</string>
+	<key>SaveCredentialsOnSuccessfulAuthentication</key>
+	<false/>
+	<key>TLSTrustedCertificates</key>
+	<array>
+		<data>
+		MIID+zCCAuOgAwIBAgIRANgHxZRURgZLG73qg6wVyxEwDQYJKoZIhvcNAQEL
+		BQAwgZAxCzAJBgNVBAYTAkNOMREwDwYDVQQIEwhaaGVqaWFuZzERMA8GA1UE
+		BxMISGFuZ3pob3UxKjAoBgNVBAoMIeadreW3nuS6v+agvOS6keenkeaKgOac
+		iemZkOWFrOWPuDESMBAGA1UECwwJ5Lq/5qC85LqRMRswGQYDVQQDExJFYWds
+		ZUNsb3VkIFJvb3QgQ0EwHhcNMjIxMDI3MDUzMDQ2WhcNMzIxMDI0MDUzMDQ2
+		WjBXMQswCQYDVQQGEwJDTjEqMCgGA1UECgwh5p2t5bee5Lq/5qC85LqR56eR
+		5oqA5pyJ6ZmQ5YWs5Y+4MRwwGgYDVQQDExNyYWRpdXMuZWFnbGV5dW4uY29t
+		MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLEapWp9XSMWHjPE
+		lajhixyW7PUzp6sZQq7Kizvpfyss1IvVsV5DWEazvq0lOjljWmjqk6c5tq3b
+		/c9UOb9gzWMvQQHvE2vbn+qfrfWp0AmOGyTQhjRjSCBB58uYzrnq2g5OMT20
+		sFub/8cqqYcoKPBBX0jiVnGkGvyxQzx90U0DenO6ik20mOJH7zOcxYiB7hSJ
+		e88+41niPswKRNFw2W+xAvcNjnsFjHWmYETZ/51i0IYo8SZ07wAuLEgMJTF3
+		+vqPlKUMHh0BZR0T0I05IAI6+u8iffNnbDbuv4el5KerC9/KJykZbTsYQjyK
+		lv9j1ZD5opGWBG/UYWUYnTJIqQIDAQABo4GHMIGEMA4GA1UdDwEB/wQEAwIE
+		kDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+		ADAfBgNVHSMEGDAWgBSS7nshj6fF6hUNpFDn6K1m97v4BjAkBgNVHREEHTAb
+		ghNyYWRpdXMuZWFnbGV5dW4uY29thwR/AAABMA0GCSqGSIb3DQEBCwUAA4IB
+		AQBc/VcJAC6IWoPIYMvjUIMDNfkwMI0WkQJCRFRcpNlrLMKdCut4nInNXJhk
+		f/AVRYsm8fYhcQbYy6ebPRjgjuwx5yjzeArZlm687oh8kUsBMZTQHVzvnLww
+		R2TtXHnf99p9xVqT6EOe/nvInhE6n6NTqcP8YPrAbnhypxgaAmqydfzienqr
+		k42taJWsfFqPbY3KLNPVWLvTendzzLBG04kYw8dyxp0GCxpw/Nkrz5kbYwG4
+		Beshc+pliSVOOHgaRKW4inHJ5H+vQPVk/7u9mJ4Oi39Bex2FvsjhwVIcGMzP
+		f/QEZrEd5JzSK7ELo2e4ekuS8zlVmKkndrvGObTPC+G+
+		</data>
+	</array>
+	<key>TTLSInnerAuthentication</key>
+	<string>MSCHAPv2</string>
+	<key>UserName</key>
+	<string>王少东</string>
+	<key>UserPassword</key>
+	<string>XXXXXXXX</string>
+</dict>
+</plist>
+2023-03-02 09:51:57.590114+0800 0x2c59b5   Default     0x0                  20697  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-02 09:51:57.590136+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Inactive Status=OK (0)
+2023-03-02 09:51:57.688885+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 09:51:57.708106+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Associated SSID T3go-office BSSID 50:98:b8:64:b0:43
+2023-03-02 09:51:57.708108+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 23: EAP Request (1) Identity (1) From 50:98:b8:64:b0:43
+2023-03-02 09:51:57.708116+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Connecting Status=OK (0)
+2023-03-02 09:51:57.708429+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] EAP Request Identity
+2023-03-02 09:51:57.708431+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] EAP Response Identity term_29424db4-5125-4e20-ad87-9b7be403a76c
+2023-03-02 09:51:57.708435+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) Identity (1) To 50:98:b8:64:b0:43
+2023-03-02 09:51:57.708484+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Acquired Status=OK (0)
+2023-03-02 09:51:57.733703+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 40: EAP Request (1) EAP-MD5 (4) From 50:98:b8:64:b0:43
+2023-03-02 09:51:57.733705+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] set_msk 0
+2023-03-02 09:51:57.739567+0800 0x2c599c   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:51:57.744338+0800 0x2c599c   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:51:57.746438+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 09:51:57.746764+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] EAP Request: NAK'ing EAP type 4 with EAP-PEAP(25)
+2023-03-02 09:51:57.746769+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) Nak (3) To 50:98:b8:64:b0:43
+2023-03-02 09:51:57.754439+0800 0x2c59a2   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:51:57.757030+0800 0x2c59a2   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:51:57.758604+0800 0x2c59a2   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:51:57.760273+0800 0x2c59a2   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:51:57.778276+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 24: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 09:51:57.778291+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] EAP Request: EAP-PEAP (25) accepted
+2023-03-02 09:51:57.778300+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 09:51:57.780325+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 165: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 09:51:57.780343+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 09:51:57.808554+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 1022: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 09:51:57.808562+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 09:51:57.808581+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 09:51:57.836497+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 477: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 09:51:57.846518+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 140: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 09:51:57.846542+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 09:51:57.871243+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 75: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 09:51:57.871280+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 09:51:57.871301+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 09:51:57.896275+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 58: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 09:51:57.896293+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 49: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 09:51:57.896313+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 09:51:57.925680+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 91: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 09:51:57.925741+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 103: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 09:51:57.925761+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 09:51:57.965035+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 100: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 09:51:57.965068+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 41: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 09:51:57.965095+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 09:51:57.966138+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] 4-way handshake notification scheduled
+2023-03-02 09:51:57.966140+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] set_msk 64
+2023-03-02 09:51:58.075156+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 64: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 09:51:58.075178+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 09:51:58.075216+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 09:51:58.094867+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 22: EAP Success (3) From 50:98:b8:64:b0:43
+2023-03-02 09:51:58.094878+0800 0x2c59b5   Default     0x0                  20697  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-02 09:51:58.094892+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Authenticated Status=OK (0)
+2023-03-02 09:51:58.117727+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] 4-way handshake complete
+2023-03-02 09:51:58.117728+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] force renew
+2023-03-02 09:51:58.209419+0800 0x2c59a2   Default     0x2e77ec             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 09:51:58.217245+0800 0x2c59a2   Default     0x2e77ec             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:02:34.249110+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:02:34.250020+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] link inactive
+2023-03-02 10:02:34.347127+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:02:35.253824+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] State=Inactive Status=OK (0)
+2023-03-02 10:02:38.070152+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:02:39.219938+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:02:42.952161+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:02:44.062793+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:02:47.444020+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:02:52.559367+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:02:55.985098+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:03:01.100905+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:03:04.565131+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:03:14.687316+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:03:18.173052+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:03:28.285727+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:03:31.750014+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:03:41.869312+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:03:45.251753+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:03:55.366605+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:03:58.734731+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:08.854765+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:12.245802+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:21.277070+0800 0x2c59b5   Default     0x0                  20697  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-02 10:04:21.280425+0800 0x2c59b5   Info        0x0                  20697  0    eapolclient: [com.apple.eapol:Client] PMK cache cleared
+2023-03-02 10:04:21.503121+0800 0x2c8a95   Default     0x0                  20991  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-02 10:04:21.503515+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:21.504305+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] update_configuration
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptEAPTypes</key>
+	<array>
+		<integer>25</integer>
+	</array>
+	<key>OuterIdentity</key>
+	<string>term_29424db4-5125-4e20-ad87-9b7be403a76c</string>
+	<key>ProfileID</key>
+	<string>64D6F872-F162-4F20-A063-0F1330705A9F</string>
+	<key>SaveCredentialsOnSuccessfulAuthentication</key>
+	<false/>
+	<key>TLSTrustedCertificates</key>
+	<array>
+		<data>
+		MIID+zCCAuOgAwIBAgIRANgHxZRURgZLG73qg6wVyxEwDQYJKoZIhvcNAQEL
+		BQAwgZAxCzAJBgNVBAYTAkNOMREwDwYDVQQIEwhaaGVqaWFuZzERMA8GA1UE
+		BxMISGFuZ3pob3UxKjAoBgNVBAoMIeadreW3nuS6v+agvOS6keenkeaKgOac
+		iemZkOWFrOWPuDESMBAGA1UECwwJ5Lq/5qC85LqRMRswGQYDVQQDExJFYWds
+		ZUNsb3VkIFJvb3QgQ0EwHhcNMjIxMDI3MDUzMDQ2WhcNMzIxMDI0MDUzMDQ2
+		WjBXMQswCQYDVQQGEwJDTjEqMCgGA1UECgwh5p2t5bee5Lq/5qC85LqR56eR
+		5oqA5pyJ6ZmQ5YWs5Y+4MRwwGgYDVQQDExNyYWRpdXMuZWFnbGV5dW4uY29t
+		MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLEapWp9XSMWHjPE
+		lajhixyW7PUzp6sZQq7Kizvpfyss1IvVsV5DWEazvq0lOjljWmjqk6c5tq3b
+		/c9UOb9gzWMvQQHvE2vbn+qfrfWp0AmOGyTQhjRjSCBB58uYzrnq2g5OMT20
+		sFub/8cqqYcoKPBBX0jiVnGkGvyxQzx90U0DenO6ik20mOJH7zOcxYiB7hSJ
+		e88+41niPswKRNFw2W+xAvcNjnsFjHWmYETZ/51i0IYo8SZ07wAuLEgMJTF3
+		+vqPlKUMHh0BZR0T0I05IAI6+u8iffNnbDbuv4el5KerC9/KJykZbTsYQjyK
+		lv9j1ZD5opGWBG/UYWUYnTJIqQIDAQABo4GHMIGEMA4GA1UdDwEB/wQEAwIE
+		kDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+		ADAfBgNVHSMEGDAWgBSS7nshj6fF6hUNpFDn6K1m97v4BjAkBgNVHREEHTAb
+		ghNyYWRpdXMuZWFnbGV5dW4uY29thwR/AAABMA0GCSqGSIb3DQEBCwUAA4IB
+		AQBc/VcJAC6IWoPIYMvjUIMDNfkwMI0WkQJCRFRcpNlrLMKdCut4nInNXJhk
+		f/AVRYsm8fYhcQbYy6ebPRjgjuwx5yjzeArZlm687oh8kUsBMZTQHVzvnLww
+		R2TtXHnf99p9xVqT6EOe/nvInhE6n6NTqcP8YPrAbnhypxgaAmqydfzienqr
+		k42taJWsfFqPbY3KLNPVWLvTendzzLBG04kYw8dyxp0GCxpw/Nkrz5kbYwG4
+		Beshc+pliSVOOHgaRKW4inHJ5H+vQPVk/7u9mJ4Oi39Bex2FvsjhwVIcGMzP
+		f/QEZrEd5JzSK7ELo2e4ekuS8zlVmKkndrvGObTPC+G+
+		</data>
+	</array>
+	<key>TTLSInnerAuthentication</key>
+	<string>MSCHAPv2</string>
+	<key>UserName</key>
+	<string>王少东</string>
+	<key>UserPassword</key>
+	<string>XXXXXXXX</string>
+</dict>
+</plist>
+2023-03-02 10:04:21.504589+0800 0x2c8a95   Default     0x0                  20991  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-02 10:04:21.504609+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Inactive Status=OK (0)
+2023-03-02 10:04:21.605706+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:21.631742+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Associated SSID T3go-office BSSID 50:98:b8:64:b0:43
+2023-03-02 10:04:21.631744+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 23: EAP Request (1) Identity (1) From 50:98:b8:64:b0:43
+2023-03-02 10:04:21.631751+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Connecting Status=OK (0)
+2023-03-02 10:04:21.632008+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] EAP Request Identity
+2023-03-02 10:04:21.632009+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] EAP Response Identity term_29424db4-5125-4e20-ad87-9b7be403a76c
+2023-03-02 10:04:21.632013+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) Identity (1) To 50:98:b8:64:b0:43
+2023-03-02 10:04:21.632031+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Acquired Status=OK (0)
+2023-03-02 10:04:21.659214+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 40: EAP Request (1) EAP-MD5 (4) From 50:98:b8:64:b0:43
+2023-03-02 10:04:21.659216+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] set_msk 0
+2023-03-02 10:04:21.665250+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:04:21.665660+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] EAP Request: NAK'ing EAP type 4 with EAP-PEAP(25)
+2023-03-02 10:04:21.665665+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) Nak (3) To 50:98:b8:64:b0:43
+2023-03-02 10:04:21.667401+0800 0x2c84bc   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:04:21.684935+0800 0x2c84bc   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:04:21.686952+0800 0x2c84bc   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:04:21.693233+0800 0x2c84bc   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:04:21.694980+0800 0x2c84bc   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:04:21.697963+0800 0x2c84bc   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:04:21.706509+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 24: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:04:21.706557+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] EAP Request: EAP-PEAP (25) accepted
+2023-03-02 10:04:21.706575+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:04:21.709197+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 165: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:04:21.709237+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:04:21.736386+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 1022: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:04:21.736394+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:04:21.736414+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:04:21.764580+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 477: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:04:21.774979+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 140: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:04:21.775002+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:04:21.822945+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 75: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:04:21.822980+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:04:21.823022+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:04:21.856035+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 58: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:04:21.856053+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 49: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:04:21.856080+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:04:21.887384+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 91: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:04:21.887445+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 103: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:04:21.887466+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:04:21.921897+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 100: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:04:21.921923+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 41: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:04:21.921943+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:04:21.922798+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] 4-way handshake notification scheduled
+2023-03-02 10:04:21.922799+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] set_msk 64
+2023-03-02 10:04:22.071841+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 64: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:04:22.071860+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:04:22.071896+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:04:22.135933+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 22: EAP Success (3) From 50:98:b8:64:b0:43
+2023-03-02 10:04:22.135949+0800 0x2c8a95   Default     0x0                  20991  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-02 10:04:22.135970+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Authenticated Status=OK (0)
+2023-03-02 10:04:22.157407+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] 4-way handshake complete
+2023-03-02 10:04:22.157408+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] force renew
+2023-03-02 10:04:22.172507+0800 0x2c84bc   Default     0x2e77ef             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:04:22.177256+0800 0x2c84bc   Default     0x2e77ef             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:04:40.175758+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:40.175832+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] link inactive
+2023-03-02 10:04:40.240230+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:41.178345+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] State=Inactive Status=OK (0)
+2023-03-02 10:04:43.717314+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:44.824513+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:48.340184+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:49.452510+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:52.896835+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:04:58.003831+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:05:01.463018+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:05:06.574454+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:05:09.991763+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:05:20.166200+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:05:23.601752+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:05:33.718009+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:05:37.106492+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:05:47.216361+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:05:50.650635+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:06:00.764000+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:06:04.234225+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:06:14.344722+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:06:17.752246+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:06:39.765312+0800 0x2c8a95   Default     0x0                  20991  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-02 10:06:39.768945+0800 0x2c8a95   Info        0x0                  20991  0    eapolclient: [com.apple.eapol:Client] PMK cache cleared
+2023-03-02 10:06:39.996816+0800 0x2c9583   Default     0x0                  21100  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-02 10:06:39.997341+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:06:39.999466+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] update_configuration
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptEAPTypes</key>
+	<array>
+		<integer>25</integer>
+	</array>
+	<key>OuterIdentity</key>
+	<string>term_29424db4-5125-4e20-ad87-9b7be403a76c</string>
+	<key>ProfileID</key>
+	<string>64D6F872-F162-4F20-A063-0F1330705A9F</string>
+	<key>SaveCredentialsOnSuccessfulAuthentication</key>
+	<false/>
+	<key>TLSTrustedCertificates</key>
+	<array>
+		<data>
+		MIID+zCCAuOgAwIBAgIRANgHxZRURgZLG73qg6wVyxEwDQYJKoZIhvcNAQEL
+		BQAwgZAxCzAJBgNVBAYTAkNOMREwDwYDVQQIEwhaaGVqaWFuZzERMA8GA1UE
+		BxMISGFuZ3pob3UxKjAoBgNVBAoMIeadreW3nuS6v+agvOS6keenkeaKgOac
+		iemZkOWFrOWPuDESMBAGA1UECwwJ5Lq/5qC85LqRMRswGQYDVQQDExJFYWds
+		ZUNsb3VkIFJvb3QgQ0EwHhcNMjIxMDI3MDUzMDQ2WhcNMzIxMDI0MDUzMDQ2
+		WjBXMQswCQYDVQQGEwJDTjEqMCgGA1UECgwh5p2t5bee5Lq/5qC85LqR56eR
+		5oqA5pyJ6ZmQ5YWs5Y+4MRwwGgYDVQQDExNyYWRpdXMuZWFnbGV5dW4uY29t
+		MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLEapWp9XSMWHjPE
+		lajhixyW7PUzp6sZQq7Kizvpfyss1IvVsV5DWEazvq0lOjljWmjqk6c5tq3b
+		/c9UOb9gzWMvQQHvE2vbn+qfrfWp0AmOGyTQhjRjSCBB58uYzrnq2g5OMT20
+		sFub/8cqqYcoKPBBX0jiVnGkGvyxQzx90U0DenO6ik20mOJH7zOcxYiB7hSJ
+		e88+41niPswKRNFw2W+xAvcNjnsFjHWmYETZ/51i0IYo8SZ07wAuLEgMJTF3
+		+vqPlKUMHh0BZR0T0I05IAI6+u8iffNnbDbuv4el5KerC9/KJykZbTsYQjyK
+		lv9j1ZD5opGWBG/UYWUYnTJIqQIDAQABo4GHMIGEMA4GA1UdDwEB/wQEAwIE
+		kDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+		ADAfBgNVHSMEGDAWgBSS7nshj6fF6hUNpFDn6K1m97v4BjAkBgNVHREEHTAb
+		ghNyYWRpdXMuZWFnbGV5dW4uY29thwR/AAABMA0GCSqGSIb3DQEBCwUAA4IB
+		AQBc/VcJAC6IWoPIYMvjUIMDNfkwMI0WkQJCRFRcpNlrLMKdCut4nInNXJhk
+		f/AVRYsm8fYhcQbYy6ebPRjgjuwx5yjzeArZlm687oh8kUsBMZTQHVzvnLww
+		R2TtXHnf99p9xVqT6EOe/nvInhE6n6NTqcP8YPrAbnhypxgaAmqydfzienqr
+		k42taJWsfFqPbY3KLNPVWLvTendzzLBG04kYw8dyxp0GCxpw/Nkrz5kbYwG4
+		Beshc+pliSVOOHgaRKW4inHJ5H+vQPVk/7u9mJ4Oi39Bex2FvsjhwVIcGMzP
+		f/QEZrEd5JzSK7ELo2e4ekuS8zlVmKkndrvGObTPC+G+
+		</data>
+	</array>
+	<key>TTLSInnerAuthentication</key>
+	<string>MSCHAPv2</string>
+	<key>UserName</key>
+	<string>王少东</string>
+	<key>UserPassword</key>
+	<string>XXXXXXXX</string>
+</dict>
+</plist>
+2023-03-02 10:06:40.000132+0800 0x2c9583   Default     0x0                  21100  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-02 10:06:40.000157+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Inactive Status=OK (0)
+2023-03-02 10:06:40.093158+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Associated SSID T3go-office BSSID 50:98:b8:64:b0:43
+2023-03-02 10:06:40.093160+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 23: EAP Request (1) Identity (1) From 50:98:b8:64:b0:43
+2023-03-02 10:06:40.093169+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Connecting Status=OK (0)
+2023-03-02 10:06:40.093458+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] EAP Request Identity
+2023-03-02 10:06:40.093460+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] EAP Response Identity term_29424db4-5125-4e20-ad87-9b7be403a76c
+2023-03-02 10:06:40.093464+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) Identity (1) To 50:98:b8:64:b0:43
+2023-03-02 10:06:40.093496+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Acquired Status=OK (0)
+2023-03-02 10:06:40.117711+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 40: EAP Request (1) EAP-MD5 (4) From 50:98:b8:64:b0:43
+2023-03-02 10:06:40.117714+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] set_msk 0
+2023-03-02 10:06:40.126131+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:06:40.126577+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] EAP Request: NAK'ing EAP type 4 with EAP-PEAP(25)
+2023-03-02 10:06:40.126584+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) Nak (3) To 50:98:b8:64:b0:43
+2023-03-02 10:06:40.126931+0800 0x2c9571   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:06:40.143588+0800 0x2c9571   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:06:40.144917+0800 0x2c9571   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:06:40.147935+0800 0x2c9571   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:06:40.150164+0800 0x2c9571   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:06:40.151902+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 24: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:06:40.151917+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] EAP Request: EAP-PEAP (25) accepted
+2023-03-02 10:06:40.151926+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:06:40.153796+0800 0x2c9571   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:06:40.154755+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 165: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:06:40.154777+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:06:40.186305+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 1022: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:06:40.186333+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:06:40.186363+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:06:40.213823+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 477: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:06:40.227253+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 140: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:06:40.227325+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:06:40.261134+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 75: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:06:40.261177+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:06:40.261218+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:06:40.291509+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 58: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:06:40.291526+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 49: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:06:40.291548+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:06:40.327011+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 91: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:06:40.327075+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 103: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:06:40.327099+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:06:40.364571+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 100: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:06:40.364678+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 41: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:06:40.364749+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:06:40.366454+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] 4-way handshake notification scheduled
+2023-03-02 10:06:40.366454+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] set_msk 64
+2023-03-02 10:06:40.508906+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 64: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:06:40.508965+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:06:40.509025+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:06:40.562752+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 22: EAP Success (3) From 50:98:b8:64:b0:43
+2023-03-02 10:06:40.562772+0800 0x2c9583   Default     0x0                  21100  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-02 10:06:40.562795+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Authenticated Status=OK (0)
+2023-03-02 10:06:40.581934+0800 0x2c9571   Default     0x2fa722             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:06:40.584823+0800 0x2c9571   Default     0x2fa722             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:06:40.589608+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] 4-way handshake complete
+2023-03-02 10:06:40.589609+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] force renew
+2023-03-02 10:10:25.850590+0800 0x2c9583   Default     0x0                  21100  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-02 10:10:25.850819+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] PMK cache cleared
+2023-03-02 10:10:25.850837+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 4: EAPOL Logoff (2) To 50:98:b8:64:b0:43
+2023-03-02 10:10:25.850859+0800 0x2c9583   Info        0x0                  21100  0    eapolclient: [com.apple.eapol:Client] State=Logoff Status=OK (0)
+2023-03-02 10:10:27.411814+0800 0x2ca5e5   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:27.414276+0800 0x2ca5e5   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:27.421668+0800 0x2ca7be   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:27.425612+0800 0x2ca7be   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:27.463915+0800 0x2ca5e5   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:27.474537+0800 0x2ca5e5   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:27.536154+0800 0x2ca7be   Default     0x2fc8d1             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:27.541939+0800 0x2ca7be   Default     0x2fc8d1             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:31.689297+0800 0x2ca7be   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:31.708836+0800 0x2ca7be   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:31.709189+0800 0x2ca8a4   Default     0x0                  21275  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-02 10:10:31.710730+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:10:31.712007+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] update_configuration
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptEAPTypes</key>
+	<array>
+		<integer>25</integer>
+	</array>
+	<key>OuterIdentity</key>
+	<string>term_29424db4-5125-4e20-ad87-9b7be403a76c</string>
+	<key>ProfileID</key>
+	<string>64D6F872-F162-4F20-A063-0F1330705A9F</string>
+	<key>SaveCredentialsOnSuccessfulAuthentication</key>
+	<false/>
+	<key>TLSTrustedCertificates</key>
+	<array>
+		<data>
+		MIID+zCCAuOgAwIBAgIRANgHxZRURgZLG73qg6wVyxEwDQYJKoZIhvcNAQEL
+		BQAwgZAxCzAJBgNVBAYTAkNOMREwDwYDVQQIEwhaaGVqaWFuZzERMA8GA1UE
+		BxMISGFuZ3pob3UxKjAoBgNVBAoMIeadreW3nuS6v+agvOS6keenkeaKgOac
+		iemZkOWFrOWPuDESMBAGA1UECwwJ5Lq/5qC85LqRMRswGQYDVQQDExJFYWds
+		ZUNsb3VkIFJvb3QgQ0EwHhcNMjIxMDI3MDUzMDQ2WhcNMzIxMDI0MDUzMDQ2
+		WjBXMQswCQYDVQQGEwJDTjEqMCgGA1UECgwh5p2t5bee5Lq/5qC85LqR56eR
+		5oqA5pyJ6ZmQ5YWs5Y+4MRwwGgYDVQQDExNyYWRpdXMuZWFnbGV5dW4uY29t
+		MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLEapWp9XSMWHjPE
+		lajhixyW7PUzp6sZQq7Kizvpfyss1IvVsV5DWEazvq0lOjljWmjqk6c5tq3b
+		/c9UOb9gzWMvQQHvE2vbn+qfrfWp0AmOGyTQhjRjSCBB58uYzrnq2g5OMT20
+		sFub/8cqqYcoKPBBX0jiVnGkGvyxQzx90U0DenO6ik20mOJH7zOcxYiB7hSJ
+		e88+41niPswKRNFw2W+xAvcNjnsFjHWmYETZ/51i0IYo8SZ07wAuLEgMJTF3
+		+vqPlKUMHh0BZR0T0I05IAI6+u8iffNnbDbuv4el5KerC9/KJykZbTsYQjyK
+		lv9j1ZD5opGWBG/UYWUYnTJIqQIDAQABo4GHMIGEMA4GA1UdDwEB/wQEAwIE
+		kDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+		ADAfBgNVHSMEGDAWgBSS7nshj6fF6hUNpFDn6K1m97v4BjAkBgNVHREEHTAb
+		ghNyYWRpdXMuZWFnbGV5dW4uY29thwR/AAABMA0GCSqGSIb3DQEBCwUAA4IB
+		AQBc/VcJAC6IWoPIYMvjUIMDNfkwMI0WkQJCRFRcpNlrLMKdCut4nInNXJhk
+		f/AVRYsm8fYhcQbYy6ebPRjgjuwx5yjzeArZlm687oh8kUsBMZTQHVzvnLww
+		R2TtXHnf99p9xVqT6EOe/nvInhE6n6NTqcP8YPrAbnhypxgaAmqydfzienqr
+		k42taJWsfFqPbY3KLNPVWLvTendzzLBG04kYw8dyxp0GCxpw/Nkrz5kbYwG4
+		Beshc+pliSVOOHgaRKW4inHJ5H+vQPVk/7u9mJ4Oi39Bex2FvsjhwVIcGMzP
+		f/QEZrEd5JzSK7ELo2e4ekuS8zlVmKkndrvGObTPC+G+
+		</data>
+	</array>
+	<key>TTLSInnerAuthentication</key>
+	<string>MSCHAPv2</string>
+	<key>UserName</key>
+	<string>王少东</string>
+	<key>UserPassword</key>
+	<string>XXXXXXXX</string>
+</dict>
+</plist>
+2023-03-02 10:10:31.712410+0800 0x2ca8a4   Default     0x0                  21275  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-02 10:10:31.712433+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Inactive Status=OK (0)
+2023-03-02 10:10:31.797760+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:10:31.802088+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:10:31.808175+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:10:31.823096+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:10:32.001387+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Associated SSID T3go-office BSSID 50:98:b8:64:9f:13
+2023-03-02 10:10:32.001389+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 23: EAP Request (1) Identity (1) From 50:98:b8:64:9f:13
+2023-03-02 10:10:32.001398+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Connecting Status=OK (0)
+2023-03-02 10:10:32.001792+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] EAP Request Identity
+2023-03-02 10:10:32.001794+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] EAP Response Identity term_29424db4-5125-4e20-ad87-9b7be403a76c
+2023-03-02 10:10:32.001798+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) Identity (1) To 50:98:b8:64:9f:13
+2023-03-02 10:10:32.001854+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Acquired Status=OK (0)
+2023-03-02 10:10:32.022906+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 40: EAP Request (1) EAP-MD5 (4) From 50:98:b8:64:9f:13
+2023-03-02 10:10:32.022908+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] set_msk 0
+2023-03-02 10:10:32.032911+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:32.033340+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] EAP Request: NAK'ing EAP type 4 with EAP-PEAP(25)
+2023-03-02 10:10:32.033345+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) Nak (3) To 50:98:b8:64:9f:13
+2023-03-02 10:10:32.036197+0800 0x2ca5e5   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:32.047565+0800 0x2ca5e5   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:32.049340+0800 0x2ca5e5   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:32.052733+0800 0x2ca5e5   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:32.053908+0800 0x2ca5e5   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:32.056324+0800 0x2ca5e5   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:32.064582+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 24: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:9f:13
+2023-03-02 10:10:32.064604+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] EAP Request: EAP-PEAP (25) accepted
+2023-03-02 10:10:32.064613+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:32.067222+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 165: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:9f:13
+2023-03-02 10:10:32.067269+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:32.132526+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 1022: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:9f:13
+2023-03-02 10:10:32.132554+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:9f:13
+2023-03-02 10:10:32.132603+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:32.161190+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 477: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:9f:13
+2023-03-02 10:10:32.172348+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 140: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:9f:13
+2023-03-02 10:10:32.172387+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:32.203241+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 75: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:9f:13
+2023-03-02 10:10:32.203275+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:9f:13
+2023-03-02 10:10:32.203295+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:32.228212+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 58: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:9f:13
+2023-03-02 10:10:32.228226+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 49: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:9f:13
+2023-03-02 10:10:32.228260+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:32.253674+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 91: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:9f:13
+2023-03-02 10:10:32.253738+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 103: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:9f:13
+2023-03-02 10:10:32.253759+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:32.274946+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 100: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:9f:13
+2023-03-02 10:10:32.274971+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 41: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:9f:13
+2023-03-02 10:10:32.274991+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:32.275712+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] 4-way handshake notification scheduled
+2023-03-02 10:10:32.275713+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] set_msk 64
+2023-03-02 10:10:32.435473+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 64: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:9f:13
+2023-03-02 10:10:32.435505+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:9f:13
+2023-03-02 10:10:32.435526+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:32.456034+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 22: EAP Success (3) From 50:98:b8:64:9f:13
+2023-03-02 10:10:32.456060+0800 0x2ca8a4   Default     0x0                  21275  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-02 10:10:32.456091+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticated Status=OK (0)
+2023-03-02 10:10:32.480008+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] 4-way handshake complete
+2023-03-02 10:10:32.480008+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] force renew
+2023-03-02 10:10:32.652046+0800 0x2ca7bd   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:32.657235+0800 0x2ca7bd   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:10:56.874593+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Associated SSID T3go-office BSSID 50:98:b8:64:c2:e3
+2023-03-02 10:10:56.874595+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 23: EAP Request (1) Identity (1) From 50:98:b8:64:c2:e3
+2023-03-02 10:10:56.874597+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] EAP Request Identity
+2023-03-02 10:10:56.874598+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] EAP Response Identity term_29424db4-5125-4e20-ad87-9b7be403a76c
+2023-03-02 10:10:56.874600+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) Identity (1) To 50:98:b8:64:c2:e3
+2023-03-02 10:10:56.874618+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Acquired Status=OK (0)
+2023-03-02 10:10:56.907923+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 40: EAP Request (1) EAP-MD5 (4) From 50:98:b8:64:c2:e3
+2023-03-02 10:10:56.907925+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] set_msk 0
+2023-03-02 10:10:56.913735+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:56.914070+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] EAP Request: NAK'ing EAP type 4 with EAP-PEAP(25)
+2023-03-02 10:10:56.914075+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) Nak (3) To 50:98:b8:64:c2:e3
+2023-03-02 10:10:56.939612+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 24: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:c2:e3
+2023-03-02 10:10:56.939708+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 165: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:c2:e3
+2023-03-02 10:10:56.939737+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:56.967461+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 1022: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:c2:e3
+2023-03-02 10:10:56.967468+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:c2:e3
+2023-03-02 10:10:56.967485+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:57.034473+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 477: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.036708+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 140: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.036746+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:57.065068+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 75: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.065117+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.065146+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:57.128985+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 58: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.129006+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 49: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.129034+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:57.155173+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 91: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.155241+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 103: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.155266+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:57.181973+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 100: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.182003+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 41: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.182024+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:57.183189+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] 4-way handshake notification scheduled
+2023-03-02 10:10:57.183190+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] set_msk 64
+2023-03-02 10:10:57.367455+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 64: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.367494+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.367541+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:10:57.392662+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 22: EAP Success (3) From 50:98:b8:64:c2:e3
+2023-03-02 10:10:57.392683+0800 0x2ca8a4   Default     0x0                  21275  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-02 10:10:57.392699+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Authenticated Status=OK (0)
+2023-03-02 10:10:57.428179+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] 4-way handshake complete
+2023-03-02 10:12:01.875561+0800 0x2ca8a4   Default     0x0                  21275  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-02 10:12:01.875657+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] PMK cache cleared
+2023-03-02 10:12:01.875674+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 4: EAPOL Logoff (2) To 50:98:b8:64:c2:e3
+2023-03-02 10:12:01.875698+0800 0x2ca8a4   Info        0x0                  21275  0    eapolclient: [com.apple.eapol:Client] State=Logoff Status=OK (0)
+2023-03-02 10:12:03.487435+0800 0x2cae47   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:03.522185+0800 0x2cae47   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:03.523437+0800 0x2cae47   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:03.525316+0800 0x2cae47   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:03.526496+0800 0x2cae47   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:03.528817+0800 0x2cae47   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:03.618759+0800 0x2cae47   Default     0x2fd2ac             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:03.624290+0800 0x2cae47   Default     0x2fd2ac             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:43.742301+0800 0x2cafa3   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:43.765866+0800 0x2cb274   Default     0x0                  21433  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-02 10:12:43.766343+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Associated SSID T3go-guest BSSID 50:98:b8:64:b0:40
+2023-03-02 10:12:43.766347+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] link active
+2023-03-02 10:12:43.768103+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] update_configuration
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptEAPTypes</key>
+	<array>
+		<integer>25</integer>
+	</array>
+	<key>OuterIdentity</key>
+	<string>term_29424db4-5125-4e20-ad87-9b7be403a76c</string>
+	<key>ProfileID</key>
+	<string>64D6F872-F162-4F20-A063-0F1330705A9F</string>
+	<key>SaveCredentialsOnSuccessfulAuthentication</key>
+	<false/>
+	<key>TLSTrustedCertificates</key>
+	<array>
+		<data>
+		MIID+zCCAuOgAwIBAgIRANgHxZRURgZLG73qg6wVyxEwDQYJKoZIhvcNAQEL
+		BQAwgZAxCzAJBgNVBAYTAkNOMREwDwYDVQQIEwhaaGVqaWFuZzERMA8GA1UE
+		BxMISGFuZ3pob3UxKjAoBgNVBAoMIeadreW3nuS6v+agvOS6keenkeaKgOac
+		iemZkOWFrOWPuDESMBAGA1UECwwJ5Lq/5qC85LqRMRswGQYDVQQDExJFYWds
+		ZUNsb3VkIFJvb3QgQ0EwHhcNMjIxMDI3MDUzMDQ2WhcNMzIxMDI0MDUzMDQ2
+		WjBXMQswCQYDVQQGEwJDTjEqMCgGA1UECgwh5p2t5bee5Lq/5qC85LqR56eR
+		5oqA5pyJ6ZmQ5YWs5Y+4MRwwGgYDVQQDExNyYWRpdXMuZWFnbGV5dW4uY29t
+		MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLEapWp9XSMWHjPE
+		lajhixyW7PUzp6sZQq7Kizvpfyss1IvVsV5DWEazvq0lOjljWmjqk6c5tq3b
+		/c9UOb9gzWMvQQHvE2vbn+qfrfWp0AmOGyTQhjRjSCBB58uYzrnq2g5OMT20
+		sFub/8cqqYcoKPBBX0jiVnGkGvyxQzx90U0DenO6ik20mOJH7zOcxYiB7hSJ
+		e88+41niPswKRNFw2W+xAvcNjnsFjHWmYETZ/51i0IYo8SZ07wAuLEgMJTF3
+		+vqPlKUMHh0BZR0T0I05IAI6+u8iffNnbDbuv4el5KerC9/KJykZbTsYQjyK
+		lv9j1ZD5opGWBG/UYWUYnTJIqQIDAQABo4GHMIGEMA4GA1UdDwEB/wQEAwIE
+		kDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+		ADAfBgNVHSMEGDAWgBSS7nshj6fF6hUNpFDn6K1m97v4BjAkBgNVHREEHTAb
+		ghNyYWRpdXMuZWFnbGV5dW4uY29thwR/AAABMA0GCSqGSIb3DQEBCwUAA4IB
+		AQBc/VcJAC6IWoPIYMvjUIMDNfkwMI0WkQJCRFRcpNlrLMKdCut4nInNXJhk
+		f/AVRYsm8fYhcQbYy6ebPRjgjuwx5yjzeArZlm687oh8kUsBMZTQHVzvnLww
+		R2TtXHnf99p9xVqT6EOe/nvInhE6n6NTqcP8YPrAbnhypxgaAmqydfzienqr
+		k42taJWsfFqPbY3KLNPVWLvTendzzLBG04kYw8dyxp0GCxpw/Nkrz5kbYwG4
+		Beshc+pliSVOOHgaRKW4inHJ5H+vQPVk/7u9mJ4Oi39Bex2FvsjhwVIcGMzP
+		f/QEZrEd5JzSK7ELo2e4ekuS8zlVmKkndrvGObTPC+G+
+		</data>
+	</array>
+	<key>TTLSInnerAuthentication</key>
+	<string>MSCHAPv2</string>
+	<key>UserName</key>
+	<string>王少东</string>
+	<key>UserPassword</key>
+	<string>XXXXXXXX</string>
+</dict>
+</plist>
+2023-03-02 10:12:43.768561+0800 0x2cb274   Default     0x0                  21433  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-02 10:12:43.768584+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Disconnected Status=OK (0)
+2023-03-02 10:12:43.769677+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Connecting Status=OK (0)
+2023-03-02 10:12:43.770688+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 4: EAPOL Start (1) To 50:98:b8:64:b0:40
+2023-03-02 10:12:43.859418+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:12:43.859421+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] link inactive
+2023-03-02 10:12:43.862604+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:12:43.865954+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:12:43.889969+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:12:43.994539+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Associated SSID T3go-office BSSID 50:98:b8:64:b0:43
+2023-03-02 10:12:43.994541+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 23: EAP Request (1) Identity (1) From 50:98:b8:64:b0:43
+2023-03-02 10:12:43.994549+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] EAP Request Identity
+2023-03-02 10:12:43.994549+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] EAP Response Identity term_29424db4-5125-4e20-ad87-9b7be403a76c
+2023-03-02 10:12:43.994559+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) Identity (1) To 50:98:b8:64:b0:43
+2023-03-02 10:12:43.994582+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Acquired Status=OK (0)
+2023-03-02 10:12:44.019628+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 40: EAP Request (1) EAP-MD5 (4) From 50:98:b8:64:b0:43
+2023-03-02 10:12:44.019630+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] set_msk 0
+2023-03-02 10:12:44.030292+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:12:44.030649+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] EAP Request: NAK'ing EAP type 4 with EAP-PEAP(25)
+2023-03-02 10:12:44.030672+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) Nak (3) To 50:98:b8:64:b0:43
+2023-03-02 10:12:44.032017+0800 0x2cb270   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:44.035221+0800 0x2cb270   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:44.043405+0800 0x2cafa3   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:44.047256+0800 0x2cafa3   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:44.053889+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 24: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:12:44.053901+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] EAP Request: EAP-PEAP (25) accepted
+2023-03-02 10:12:44.053911+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:12:44.056163+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 165: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:12:44.056180+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:12:44.066160+0800 0x2cb270   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:44.068807+0800 0x2cb270   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:44.086216+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 1022: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:12:44.086224+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:12:44.086246+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:12:44.110731+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 477: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:12:44.125449+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 140: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:12:44.125509+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:12:44.126006+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 477: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:12:44.126006+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Retransmit EAP packet 136 bytes
+2023-03-02 10:12:44.126008+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 140: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:12:44.157504+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 75: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:12:44.157548+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:12:44.157588+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:12:44.187667+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 58: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:12:44.187683+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 49: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:12:44.187702+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:12:44.210837+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 91: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:12:44.210994+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 103: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:12:44.211076+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:12:44.237528+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 100: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:12:44.237554+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 41: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:12:44.237590+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:12:44.238346+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] 4-way handshake notification scheduled
+2023-03-02 10:12:44.238347+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] set_msk 64
+2023-03-02 10:12:44.404284+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 64: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:12:44.404304+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:12:44.404332+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:12:44.429851+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 22: EAP Success (3) From 50:98:b8:64:b0:43
+2023-03-02 10:12:44.429884+0800 0x2cb274   Default     0x0                  21433  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-02 10:12:44.429904+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Authenticated Status=OK (0)
+2023-03-02 10:12:44.463895+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] 4-way handshake complete
+2023-03-02 10:12:44.463897+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] force renew
+2023-03-02 10:12:44.562118+0800 0x2cafa3   Default     0x2fc862             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:12:44.566793+0800 0x2cafa3   Default     0x2fc862             483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:13:22.123022+0800 0x2ca2d6   Default     0x2fe3c0             21237  0    com.apple.preference.network.remoteservice: (EAP8021X) [com.apple.eapol:Framework] EAPOLClientItemID: failed to set keychain item, -61
+2023-03-02 10:20:04.112696+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:20:04.112744+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] link inactive
+2023-03-02 10:20:04.164045+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:20:04.251055+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:20:04.760322+0800 0x2cb274   Default     0x0                  21433  0    eapolclient: [com.apple.eapol:Client] en0 STOP
+2023-03-02 10:20:04.761371+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] PMK cache cleared
+2023-03-02 10:20:04.762094+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:20:04.762095+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] Transmit: unknown BSSID, not sending 4 bytes
+2023-03-02 10:20:04.762116+0800 0x2cb274   Info        0x0                  21433  0    eapolclient: [com.apple.eapol:Client] State=Logoff Status=OK (0)
+2023-03-02 10:20:04.963674+0800 0x2cc787   Default     0x0                  502    0    WiFiAgent: (EAP8021X) [com.apple.eapol:Framework] Ignoring SaveCredentialsOnSuccessfulAuthentication since no credentials were specified
+2023-03-02 10:20:04.991769+0800 0x2ccaba   Default     0x0                  21609  0    eapolclient: [com.apple.eapol:Client] en0 START uid 501 gid 20
+2023-03-02 10:20:04.992287+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Disassociated
+2023-03-02 10:20:04.993237+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] update_configuration
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AcceptEAPTypes</key>
+	<array>
+		<integer>25</integer>
+	</array>
+	<key>OuterIdentity</key>
+	<string>term_29424db4-5125-4e20-ad87-9b7be403a76c</string>
+	<key>ProfileID</key>
+	<string>64D6F872-F162-4F20-A063-0F1330705A9F</string>
+	<key>TLSTrustedCertificates</key>
+	<array>
+		<data>
+		MIID+zCCAuOgAwIBAgIRANgHxZRURgZLG73qg6wVyxEwDQYJKoZIhvcNAQEL
+		BQAwgZAxCzAJBgNVBAYTAkNOMREwDwYDVQQIEwhaaGVqaWFuZzERMA8GA1UE
+		BxMISGFuZ3pob3UxKjAoBgNVBAoMIeadreW3nuS6v+agvOS6keenkeaKgOac
+		iemZkOWFrOWPuDESMBAGA1UECwwJ5Lq/5qC85LqRMRswGQYDVQQDExJFYWds
+		ZUNsb3VkIFJvb3QgQ0EwHhcNMjIxMDI3MDUzMDQ2WhcNMzIxMDI0MDUzMDQ2
+		WjBXMQswCQYDVQQGEwJDTjEqMCgGA1UECgwh5p2t5bee5Lq/5qC85LqR56eR
+		5oqA5pyJ6ZmQ5YWs5Y+4MRwwGgYDVQQDExNyYWRpdXMuZWFnbGV5dW4uY29t
+		MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEApLEapWp9XSMWHjPE
+		lajhixyW7PUzp6sZQq7Kizvpfyss1IvVsV5DWEazvq0lOjljWmjqk6c5tq3b
+		/c9UOb9gzWMvQQHvE2vbn+qfrfWp0AmOGyTQhjRjSCBB58uYzrnq2g5OMT20
+		sFub/8cqqYcoKPBBX0jiVnGkGvyxQzx90U0DenO6ik20mOJH7zOcxYiB7hSJ
+		e88+41niPswKRNFw2W+xAvcNjnsFjHWmYETZ/51i0IYo8SZ07wAuLEgMJTF3
+		+vqPlKUMHh0BZR0T0I05IAI6+u8iffNnbDbuv4el5KerC9/KJykZbTsYQjyK
+		lv9j1ZD5opGWBG/UYWUYnTJIqQIDAQABo4GHMIGEMA4GA1UdDwEB/wQEAwIE
+		kDAdBgNVHSUEFjAUBggrBgEFBQcDAQYIKwYBBQUHAwIwDAYDVR0TAQH/BAIw
+		ADAfBgNVHSMEGDAWgBSS7nshj6fF6hUNpFDn6K1m97v4BjAkBgNVHREEHTAb
+		ghNyYWRpdXMuZWFnbGV5dW4uY29thwR/AAABMA0GCSqGSIb3DQEBCwUAA4IB
+		AQBc/VcJAC6IWoPIYMvjUIMDNfkwMI0WkQJCRFRcpNlrLMKdCut4nInNXJhk
+		f/AVRYsm8fYhcQbYy6ebPRjgjuwx5yjzeArZlm687oh8kUsBMZTQHVzvnLww
+		R2TtXHnf99p9xVqT6EOe/nvInhE6n6NTqcP8YPrAbnhypxgaAmqydfzienqr
+		k42taJWsfFqPbY3KLNPVWLvTendzzLBG04kYw8dyxp0GCxpw/Nkrz5kbYwG4
+		Beshc+pliSVOOHgaRKW4inHJ5H+vQPVk/7u9mJ4Oi39Bex2FvsjhwVIcGMzP
+		f/QEZrEd5JzSK7ELo2e4ekuS8zlVmKkndrvGObTPC+G+
+		</data>
+	</array>
+	<key>TTLSInnerAuthentication</key>
+	<string>MSCHAPv2</string>
+</dict>
+</plist>
+2023-03-02 10:20:05.104887+0800 0x2cca2a   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:20:05.107763+0800 0x2ccaba   Default     0x0                  21609  0    eapolclient: [com.apple.eapol:Client] en0: 802.1X User Mode
+2023-03-02 10:20:05.107793+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Inactive Status=OK (0)
+2023-03-02 10:20:05.108357+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Associated SSID T3go-office BSSID 50:98:b8:64:b0:43
+2023-03-02 10:20:05.108361+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 23: EAP Request (1) Identity (1) From 50:98:b8:64:b0:43
+2023-03-02 10:20:05.108369+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Connecting Status=OK (0)
+2023-03-02 10:20:05.109047+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] EAP Request Identity
+2023-03-02 10:20:05.109049+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] EAP Response Identity term_29424db4-5125-4e20-ad87-9b7be403a76c
+2023-03-02 10:20:05.109052+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) Identity (1) To 50:98:b8:64:b0:43
+2023-03-02 10:20:05.109078+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Acquired Status=OK (0)
+2023-03-02 10:20:05.140081+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 40: EAP Request (1) EAP-MD5 (4) From 50:98:b8:64:b0:43
+2023-03-02 10:20:05.140084+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] set_msk 0
+2023-03-02 10:20:05.144279+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:20:05.144720+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] EAP Request: NAK'ing EAP type 4 with EAP-PEAP(25)
+2023-03-02 10:20:05.144725+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) Nak (3) To 50:98:b8:64:b0:43
+2023-03-02 10:20:05.169805+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 24: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:20:05.169832+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] EAP Request: EAP-PEAP (25) accepted
+2023-03-02 10:20:05.169841+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:20:05.170322+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 165: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:20:05.170407+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:20:05.199157+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 1022: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:20:05.199169+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:20:05.199214+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:20:05.210885+0800 0x2cc9eb   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:20:05.216896+0800 0x2cc9eb   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:20:05.248832+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 477: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:20:05.253015+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 140: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:20:05.253051+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:20:05.281478+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 75: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:20:05.281513+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 10: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:20:05.281534+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:20:05.339013+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 58: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:20:05.339031+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 49: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:20:05.339055+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:20:05.368223+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 91: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:20:05.368319+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 103: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:20:05.368381+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:20:05.404064+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 100: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:20:05.404094+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 41: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:20:05.404115+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:20:05.405053+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] 4-way handshake notification scheduled
+2023-03-02 10:20:05.405054+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] set_msk 64
+2023-03-02 10:20:05.571647+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 64: EAP Request (1) EAP-PEAP (25) From 50:98:b8:64:b0:43
+2023-03-02 10:20:05.571668+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Transmit Packet Size 50: EAP Response (2) EAP-PEAP (25) To 50:98:b8:64:b0:43
+2023-03-02 10:20:05.571716+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Authenticating Status=OK (0)
+2023-03-02 10:20:05.608005+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] Receive Packet Size 22: EAP Success (3) From 50:98:b8:64:b0:43
+2023-03-02 10:20:05.608019+0800 0x2ccaba   Default     0x0                  21609  0    eapolclient: [com.apple.eapol:Client] en0 EAP-PEAP: successfully authenticated
+2023-03-02 10:20:05.608033+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] State=Authenticated Status=OK (0)
+2023-03-02 10:20:05.637639+0800 0x2cc9eb   Default     0x0                  483    0    rapportd: (EAP8021X) [com.apple.eapol:Framework] eapolcontroller_server_port failed, unknown error code
+2023-03-02 10:20:05.640113+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] 4-way handshake complete
+2023-03-02 10:20:05.640115+0800 0x2ccaba   Info        0x0                  21609  0    eapolclient: [com.apple.eapol:Client] force renew
